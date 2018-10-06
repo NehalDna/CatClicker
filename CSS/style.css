@@ -1,0 +1,21 @@
+.collection{
+ display: inline-block;
+ cursor: crosshair;
+ padding: 2rem;
+ align-items: center;
+}
+
+.counter{
+    text-align: center;
+    display: inline-block;
+    display: flex;
+    padding-left: 41%;
+    font-size: 150%;
+    font-family: Impact;
+}
+
+
+.nameofCat{
+    text-align: center;
+
+}
